@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
   return (
   <div className="flex justify-center min-w-[28rem]">
-    <div className="text-center p-20 text-xl leading-10 text-black">
+    <div className="text-center p-10 text-xl leading-10 text-black">
       <div className="flex justify-center">
       <Image className="pointer-events-none" src="/image2.png" alt="image" width={220} height={20} />  
       </div>
