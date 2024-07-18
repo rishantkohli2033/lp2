@@ -14,7 +14,7 @@ export default function Home() {
         <p className="pr-1">2. Enter your email & basic info</p>
         <p className="pl-4">3. Complete recommended deals</p>
         <p className="pr-2">4. Receive your $750 gift card</p>
-        <Link href={'https://glitchy.go2cloud.org/aff_c?offer_id=76&aff_id=2431&source=jobs'} target="_blank">
+        <Link href={'https://glitchy.go2cloud.org/aff_c?offer_id=76&aff_id=2431&source=Rishant'} target="_blank">
         <button className="pl-8 pr-8 pt-4 pb-4 mt-12 text-3xl font-normal bg-black text-white rounded transition w-fit">Start</button>
         </Link>
     
