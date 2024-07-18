@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-  background: pink;
+  background: white;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
