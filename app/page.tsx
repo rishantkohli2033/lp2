@@ -5,8 +5,8 @@ export default function Home() {
   return (
   <div className="flex justify-center min-w-[28rem]">
     <div className="text-center p-10 text-xl leading-10 text-black">
-      <div className="flex justify-center">
-      <Image className="pointer-events-none" src="/image2.png" alt="image" width={220} height={20} />  
+      <div className="flex justify-center p-10">
+      <Image className="pointer-events-none" src="/logo.svg" alt="image" width={220} height={20} />  
       </div>
       <h2 className="font-light text-2xl pt-8">Click Below to get your Shein gift card</h2>
       <div className="flex flex-col justify-text text-lg leading-8 font-light pt-8 p-4 items-center">
