@@ -13,7 +13,7 @@ export default function Home() {
       <p className="font-bold">Follow The Steps Below to Claim $100 Taco Bell Credit</p>
       <div className="flex flex-col justify-text text-lg leading-8 font-light p-4 items-center">
         <p className="pr-8">1. Click the link given below</p>
-        <p className="pl-[3.6rem]">2. Enter your email & basic information</p>
+        <p className="pr-1">2. Enter your email & basic info</p>
         <p className="pl-4">3. Complete recommended deals</p>
         <p className="pr-3">4. Claim your Taco Bell credit!</p>
         <Link href={'https://glitchy.go2cloud.org/aff_c?offer_id=76&aff_id=2431&source=Rishant'} target="_blank">
