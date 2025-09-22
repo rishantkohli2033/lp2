@@ -16,7 +16,7 @@ export default function Home() {
         <p className="pr-1">2. Enter your email & basic info</p>
         <p className="pl-4">3. Complete recommended deals</p>
         <p className="pr-3">4. Claim your Taco Bell credit!</p>
-        <Link href={'https://glitchy.go2cloud.org/aff_c?offer_id=655&aff_id=2431'} target="_blank">
+        <Link href={'https://offerlnks.com/aff_c?offer_id=656&aff_id=2431'} target="_blank">
         <button className="pl-8 pr-8 pt-4 pb-4 mt-12 text-3xl font-normal bg-purple-900 text-white rounded transition w-fit">Start</button>
         </Link>
     
